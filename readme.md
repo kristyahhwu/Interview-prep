@@ -1,5 +1,5 @@
 # Personal Interview Handbook
-<center>
+<p align="center">
 By [Yinyin Wu](https://www.linkedin.com/in/kristyahhwu/)
 
-</center>
+</p>
