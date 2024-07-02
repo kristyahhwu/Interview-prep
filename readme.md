@@ -1,5 +1,3 @@
-# Personal Interview Handbook
-<p align="center">
-By [Yinyin Wu](https://www.linkedin.com/in/kristyahhwu/)
+<h1 align="center"><strong>Personal Interview Handbook</strong></h1>
 
-</p>
+<p align="center">By <a href="https://www.linkedin.com/in/kristyahhwu/">Yinyin Wu</a></p>
