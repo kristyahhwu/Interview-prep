@@ -12,3 +12,8 @@ About yourself
 1. **Can you describe your experience with data analysis?**
    1. At Berkeley National Lab, I used **Python** packages such as **numpy, pandas, and matplotlib to analyze data**. This involved **accessing and manipulating large datasets** to understand the **effects of energy usage** at HPC centers and presenting the findings.
    2. Besides that, I'm currently expanding my skills by learning Selenium with Python. 
+2. what type of manager/leader you prefer?
+3. explain a thing you know to non-technical people
+4. how you priotize things?(what type of tools you use)
+   1. jira/github issues
+   2. personal stuff(calendar time-blocking)
